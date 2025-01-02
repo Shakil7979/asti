@@ -1970,3 +1970,26 @@ footer {
   color: #494949;
   font-weight: 400;
 }
+
+
+/* Shakil CSS here  */
+
+.sk_mt{
+  margin-top: 55px;
+}
+
+.overviewContent.sk_mt { 
+	grid-template-columns: 1.5fr 1fr; 
+}
+
+.sk_ul_list::before { 
+	background-image: none !important;
+}
+
+.sk_ul_list ul li::before {
+	background: #6a6a6a;
+	background-image: none !important;
+	width: 10px !important;
+	height: 10px !important;
+	top: 7px !important;
+}
