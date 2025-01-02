@@ -1993,3 +1993,7 @@ footer {
 	height: 10px !important;
 	top: 7px !important;
 }
+
+.privacyPolicy{
+  padding: 50px 0;
+}
